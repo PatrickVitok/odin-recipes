@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.poza {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+.laza {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+html {
+    background-color: rgb(203, 133, 231);
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
